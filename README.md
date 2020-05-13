@@ -2379,3 +2379,5 @@ Signed,
 - Hasanuzzaman ([@hasanuzzamanbe](https://github.com/hasanuzzamanbe)), Software Developer, Dhaka, Bangladesh
 - Alfi ([@alfidh02](https://github.com/alfidh02)),Computer Science Student, USU, Indonesia
 - Uno Batbayar ([@unobatbayar](https://github.com/unobatbayar)), Software Engineer, Ulaanbaatar, Mongolia
+- Aaditya Mankar ([@inFamousxD](https://github.com/inFamousxD)), Student Developer, Maharashtra, India
+
